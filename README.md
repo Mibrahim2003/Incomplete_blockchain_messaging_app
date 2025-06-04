@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Blockchain Privacy Messaging App - COMPLETE
 
 A complete end-to-end encrypted messaging application built on blockchain technology with decentralized storage and secure file sharing.
@@ -182,3 +183,6 @@ For production use, additional security measures and optimizations would be requ
 ---
 
 **Status**: Phase 2 Complete ✅ | **Next**: IPFS Integration 🚧
+=======
+# Incomplete_blockchain_messaging_app
+>>>>>>> f1367e33002e7bb582c761041fd0270f0efdd450
